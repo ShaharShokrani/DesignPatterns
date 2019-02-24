@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{016697D0-D22D-40C8-BF59-73135CC99E73}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPatterns.OCP</RootNamespace>
-    <AssemblyName>DesignPatterns.OCP</AssemblyName>
+    <RootNamespace>DesignPatterns.SOLID.OCP</RootNamespace>
+    <AssemblyName>DesignPatterns.SOLID.OCP</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
