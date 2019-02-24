@@ -1,12 +1,12 @@
-using DesignPatterns.SOLID.SRP;
 using System.Diagnostics;
 
-namespace DesignPatterns
+namespace DesignPatterns.SOLID.SRP
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //Single Responsibility principle
             var j = new Journal();
             j.AddEntry("I cried today.");
             j.AddEntry("I ate a bug.");
